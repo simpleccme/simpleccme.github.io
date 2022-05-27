@@ -2,7 +2,7 @@
     <channel>
         <title>simplecc的代码杂货铺</title>
         <link>https://simpleccme.github.io/</link>
-        <description>早起的年轻人做的网站</description>
+        <description>记录生活</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
             <atom:link href="https://simpleccme.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
